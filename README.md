@@ -5,6 +5,7 @@ I'm Shayaan Wadkar, a 14 year old currently living in Maryland.
 - Python
 
 ## I'm Familiar With..
+- HTML/CSS
 - Kotlin
 
 ## I'm Learning..
