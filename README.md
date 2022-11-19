@@ -6,7 +6,7 @@ I'm Shayaan Wadkar, a 14 year old currently living in Maryland.
 
 ## I'm Familiar With..
 - Kotlin
-- 
+
 ## I'm Learning..
 - Rust
 - C
