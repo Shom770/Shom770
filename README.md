@@ -4,10 +4,13 @@ I'm Shayaan Wadkar, a 14 year old currently living in Maryland.
 ## I'm Fluent With..
 - Python
 
-## I'm Learning..
+## I'm Familiar With..
 - Kotlin
+- 
+## I'm Learning..
 - Rust
 - C
+- Java
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shom770&theme=dark)](https://git.io/streak-stats)
