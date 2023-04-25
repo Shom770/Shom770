@@ -3,10 +3,11 @@ I'm Shayaan Wadkar, a 14 year old currently living in Maryland.
 
 ## I'm Fluent With..
 - Python
+- HTML/CSS
 
 ## I'm Familiar With..
-- HTML/CSS
 - Kotlin
+- JavaScript
 
 ## I'm Learning..
 - Rust
