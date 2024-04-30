@@ -1,18 +1,18 @@
 ### Hey!
-I'm Shayaan Wadkar, a 15 year old currently living in Maryland. 
+I'm Shayaan Wadkar, a 16 year old currently living in Maryland. 
 
 ## I'm Fluent With..
 - Python
+- Kotlin
 - HTML/CSS
 
 ## I'm Familiar With..
-- Kotlin
 - JavaScript
+- Java
 
 ## I'm Learning..
 - Rust
 - C
-- Java
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shom770&theme=dark)](https://git.io/streak-stats)
