@@ -5,9 +5,12 @@ I'm Shayaan Wadkar, a 16 year old currently living in Maryland.
 - Python
 - Kotlin
 - HTML/CSS
+- Typescript
+- Javascript
+- React
+- NextJS
 
 ## I'm Familiar With..
-- JavaScript
 - Java
 
 ## I'm Learning..
