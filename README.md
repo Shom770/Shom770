@@ -1,5 +1,5 @@
 ### Hey!
-I'm Shayaan Wadkar, a 16 year old currently living in Maryland. 
+I'm Shayaan Wadkar, a 18 year old currently living in Maryland. 
 
 ## I'm Fluent With..
 - Python
